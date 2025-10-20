@@ -10,4 +10,3 @@ This project aims to design and build a **low-cost autonomous vehicle** with an 
 - Parking demonstration between two obstacles.
 - Modular hardware and software design.
 
-## Repository Structure
